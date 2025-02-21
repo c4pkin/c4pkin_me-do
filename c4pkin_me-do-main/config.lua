@@ -21,7 +21,7 @@ Languages = {
     ['tr'] = {
         commandName = 'me',
         commandDescription = '',
-        commandSuggestion = {{ name = 'action', help = 'yaptığınız eylemleri belirtmenize yarar.'}},
+        commandSuggestion = {{ name = 'action', help = 'hareket ve duygularınızı belirtebilirsiniz.'}},
         prefix = ''
     },
 }
